@@ -258,7 +258,7 @@ const ContactInfo = () => {
           <h3 className="text-xs uppercase tracking-[0.2em] font-bold mb-4">Contact</h3>
           <p className="text-stone-600 font-light leading-relaxed">
             03 20 00 00 00<br />
-            contact@lessence-lille.fr
+            contact@lessence-toulon.fr
           </p>
         </div>
         <div className="text-center">
