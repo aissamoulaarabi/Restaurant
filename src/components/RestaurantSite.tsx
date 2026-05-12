@@ -190,7 +190,7 @@ const MenuSection = () => {
             </div>
             <div className="pt-12 space-y-4">
               <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=600" className="w-full h-1/2 object-cover rounded-sm" referrerPolicy="no-referrer" />
-              <img src="https://images.unsplash.com/photo-1551218808-94e220e031ff?auto=format&fit=crop&q=80&w=600" className="w-full h-1/2 object-cover rounded-sm" referrerPolicy="no-referrer" />
+              <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8fDA%3D" className="w-full h-1/2 object-cover rounded-sm" referrerPolicy="no-referrer" />
             </div>
           </motion.div>
         </div>
